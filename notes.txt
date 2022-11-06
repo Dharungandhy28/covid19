@@ -1,0 +1,20 @@
+Sample web code
+
+Task : corona virus API
+
+Implement the corona virus API using async/await with fetch
+
+constraints:
+1.All the html elements should be created with dom
+2.use the async/await
+3.use try catch to handle errors
+4.use fetch()to get the data from covid API
+
+
+
+How do i process the API data?
+search for the total number of cases based on country name
+if data is found then print the total number of 
+active cases
+death cases
+recovered cases in numbers
